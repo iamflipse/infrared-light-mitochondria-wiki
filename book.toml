@@ -1,0 +1,7 @@
+[book]
+title = "When Light Meets Metabolism"
+authors = ["iamflipse"]
+description = "Plain-language wiki on Dr. Roger Seheult, Neuronic, 11 November 2026: infrared light, mitochondria, and Marcus electron transfer."
+
+[build]
+charset = "utf-8"
